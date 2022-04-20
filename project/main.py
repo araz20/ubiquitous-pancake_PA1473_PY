@@ -41,7 +41,7 @@ DRIVE_SPEED = 50
 GAIN = 1.2
 PARKING_TIME = 1000 * 5 # milliseconds
 COLLISION_DISTANCE = 0 
-TURN_RATE = 0
+turn_rate = 0
 
 def park():
     parked = False
